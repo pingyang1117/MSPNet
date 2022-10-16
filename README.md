@@ -1,5 +1,5 @@
 # MSPNet
-Our paper is accpted by IEEE Transactions on Intelligent Transportation Systems (T-ITS). Code will be available soon.
+Our paper is accepted by IEEE Transactions on Intelligent Transportation Systems (T-ITS). Code will be available soon.
 
 > **Mixed Stage Partial Network and Background Data Augmentation for Surveillance Object Detection**
 >
